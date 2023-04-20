@@ -1,10 +1,11 @@
-# 송명훈
+# 송명훈 602377108 "정상작동"
 ## 2023.04.20
 
 ---
 
 * 시험문제 작성 시작
 
+* 정상작동 했습니다
 ```R
 foo <- rownames(USArrests)
 bar <- USArrests[,"Assault"]
